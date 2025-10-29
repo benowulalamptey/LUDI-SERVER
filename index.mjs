@@ -1,1 +1,2 @@
-// Ludi token server skeleton (Mux ingest helpers). See README for full code.
+// Ludi token server skeleton v13.1 - Mux ingest helpers (skeleton)
+console.log('Ludi token server v13.1');
